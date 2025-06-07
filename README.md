@@ -64,3 +64,5 @@ To use the Multi-PDF-s 📚ChatApp AI Agent 🤖, U can have glimpse of look by 
 
 The application will use conversational AI to provide responses based on the content of the uploaded documents. The responses will be displayed in the chat interface.
 
+Thank You!
+
