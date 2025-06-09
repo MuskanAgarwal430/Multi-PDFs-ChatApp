@@ -12,8 +12,8 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 #from dotenv import load_dotenv
 
-API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
-API_KEY = "AIzaSyDC3I6VkaeQvC4yAA4y2MX7hdqUBqgIJX0"
+API_URL = API_URL
+API_KEY = APIKEY
 
 #load_dotenv()
 # os.getenv("GOOGLE_API_KEY")
